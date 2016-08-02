@@ -1,6 +1,6 @@
 {
 	"name": "axllent/silverstripe-bootstrap-menus",
-	"description": "An extension to add CSS classes to Silverstripe menus to play nicely with Twitter Bootstrap",
+	"description": "Add bootstrap menu classes to $LinkingMode",
 	"type": "silverstripe-module",
 	"homepage": "https://github.com/axllent/silverstripe-bootstrap-menus",
 	"keywords": ["silverstripe", "bootstrap"],
