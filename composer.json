@@ -1,0 +1,20 @@
+{
+	"name": "axllent/silverstripe-bootstrap-menus",
+	"description": "An extension to add CSS classes to Silverstripe menus to play nicely with Twitter Bootstrap",
+	"type": "silverstripe-module",
+	"homepage": "https://github.com/axllent/silverstripe-bootstrap-menus",
+	"keywords": ["silverstripe", "bootstrap"],
+	"license": "The MIT License (MIT)",
+	"authors": [
+		{
+			"name": "Ralph Slooten",
+			"homepage": "http://www.axllent.org/"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/axllent/silverstripe-bootstrap-menus/issues"
+	},
+	"require": {
+		"silverstripe/framework": "3.*"
+	}
+}
