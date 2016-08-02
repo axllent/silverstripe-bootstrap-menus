@@ -1,6 +1,6 @@
-# Add bootstrap menu classes to all $LinkingMode
+# Add bootstrap menu classes to $LinkingMode
 
-An simple extension to add CSS classes to Silverstripe's $LinkingMode to play nicely with Twitter Bootstrap.
+An simple extension to add CSS classes to Silverstripe's `$LinkingMode` to play nicely with Twitter Bootstrap.
 
 ## Requirements
 
@@ -27,4 +27,3 @@ An example Bootstrap menu template has been set up in `templates/Includes/Bootst
 ```
 <% include BootstrapMenus %>
 ```
-
